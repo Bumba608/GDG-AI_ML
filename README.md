@@ -1,4 +1,4 @@
-#Developer Role Classification from Commit Messages
+##Developer Role Classification from Commit Messages
 
 This project aims to predict the developer role (e.g., frontend, backend, fullstack, QA) based on commit records. It demonstrates a machine learning pipeline that includes data preprocessing, exploratory data analysis, traditional ML  modeling, and fine-tuning a Large Language Model (LLM) for this classification task.
 
